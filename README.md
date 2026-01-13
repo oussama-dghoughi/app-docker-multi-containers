@@ -1,6 +1,6 @@
 # Application Web Conteneurisée avec Docker
 
-## 📋 Description du Projet
+##  Description du Projet
 
 Ce projet présente une application web multi-conteneurs développée . L'application est entièrement conteneurisée et utilise Docker Compose pour l'orchestration de plusieurs services interconnectés.
 
@@ -223,7 +223,7 @@ docker compose logs -f
 ```
 
 **Logs attendus :**
-- `examen-web-app` : "🚀 Serveur démarré sur le port 3000" et "Connecté à Redis"
+- `examen-web-app` : " Serveur démarré sur le port 3000" et "Connecté à Redis"
 - `examen-redis` : "Ready to accept connections tcp"
 - `examen-nginx` : "Configuration complete; ready for start up"
 
